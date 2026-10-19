@@ -321,6 +321,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[Browser MCP](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser)** (by UI-TARS) - A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer’s structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration.
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
+- **[Cabal Radar](https://github.com/c-viper-work/cabal-radar-mcp)** - Zero-dependency Solana & Base token risk intelligence, Token-2022 control scanner, early Block-0 bundler detector, and mother-wallet sybil cluster analyzer
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
 - **[context-awesome](https://github.com/bh-rat/context-awesome)** - A MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
