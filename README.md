@@ -460,6 +460,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - Interacting with Obsidian via REST API
 - **[Odoo](https://github.com/ivnvxd/mcp-server-odoo)** - Connect AI assistants to Odoo ERP systems for business data access and workflow automation.
 - **[Octocode](https://github.com/bgauryy/octocode-mcp)** - AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
+- **[OmniRoute Bridge](https://github.com/c-viper-work/omniroute-bridge-mcp)** - Non-custodial cross-chain bridge and gas-refuel MCP server for 75+ EVM & Solana chains (Hyperliquid/HyperEVM, Polymarket/Polygon, Base, Arbitrum, Solana) with token risk audits and browser wallet execution links.
 - **[OSV](https://github.com/StacklokLabs/osv-mcp)** - Access the [OSV (Open Source Vulnerabilities) database](https://osv.dev/) for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer)** - Token-efficient access to OpenAPI/Swagger specs via MCP Resources
